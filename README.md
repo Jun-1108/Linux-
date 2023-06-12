@@ -22,6 +22,9 @@ mv_tmp source.txt destination.txt를 실행시킨다.<br>
 source.txt 파일이 없어지고 destination.txt 파일로 이동(이름 변경) 한 것을 알 수 있다.<br>
 ## touch 명령어 (파일 시간 생성)
 ![touch 출력](https://github.com/Jun-1108/Linux-/assets/48702150/738d8946-9f80-4ee5-ad4a-3e1affbbb330)<br>
+## yes 명령어 (인수 반복 출력)
+![yes 출력](https://github.com/Jun-1108/Linux-/assets/48702150/552e9560-c553-443c-b611-f64dd0ae2640)<br>
+
 
 
 
