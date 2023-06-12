@@ -27,6 +27,11 @@ source.txt 파일이 없어지고 destination.txt 파일로 이동(이름 변경
 위에처럼 실행하면 apple이 반복적으로 출력된다.<br>
 ## cat 명령어 (파일 내용 출력)
 ![cat 출력](https://github.com/Jun-1108/Linux-/assets/48702150/4acb9794-663e-4ae7-88cb-1f808c75954a)<br>
+## clear 명령어
+![clear 출력1](https://github.com/Jun-1108/Linux-/assets/48702150/a0c7c69f-2a92-4bc0-b935-aa88b3edb381)
+clear_tmpp 실행 전<br>
+![clear 출력 2](https://github.com/Jun-1108/Linux-/assets/48702150/200024b5-948b-4560-a9dc-5ff11fc7b849)
+clear_tmpp 실행 후<br>
 
 
 
