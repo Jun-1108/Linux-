@@ -8,19 +8,19 @@
 ## true, fasle 명령어(2개)
 ![true,false](https://github.com/Jun-1108/Linux-/assets/48702150/e90218ce-db0a-4e65-8ef8-edb77cb40444)<br>
 직전 process의 코드를 return하는 것으로 리턴값이 0이면 성공, 1이면 실패이다.<br>
-## ls(현재 작업 디렉토리의 파일들을 출력)
+## ls 명령어(현재 작업 디렉토리의 파일들을 출력)
 ![ls 출려](https://github.com/Jun-1108/Linux-/assets/48702150/46d060cb-daba-45c8-9bdb-4a338aa54354)<br>
-## rm(파일or디렉토리 삭제)
+## rm 명령어(파일or디렉토리 삭제)
 ![rm 출력1](https://github.com/Jun-1108/Linux-/assets/48702150/91d0ccad-109e-4be7-911f-790113a00aaf)<br>
 rm_tmp destination.txt를 실행시켜 destination.txt 파일을 삭제시킨다.
 ![rm 출력2](https://github.com/Jun-1108/Linux-/assets/48702150/974fd918-04d8-4d16-8f98-0e364a56b68c)<br>
 destination.txt 파일이 없어진것을 볼 수 있다.<br>
-## mv(파일or디렉토리 이동,이름을 변경)
+## mv 명령어(파일or디렉토리 이동,이름을 변경)
 ![mv 출력](https://github.com/Jun-1108/Linux-/assets/48702150/b5f9f49e-e1e6-4805-9c02-f505334cd8a8)<br>
 mv_tmp source.txt destination.txt를 실행시킨다.<br>
 ![mv 출력 2](https://github.com/Jun-1108/Linux-/assets/48702150/08813281-ece9-4057-83be-40a33982baaa)
 source.txt 파일이 없어지고 destination.txt 파일로 이동(이름 변경) 한 것을 알 수 있다.<br>
-## 
+## touch 명령어 (파일 시간 생성)
 
 
 
