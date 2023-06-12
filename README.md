@@ -28,10 +28,14 @@ source.txt 파일이 없어지고 destination.txt 파일로 이동(이름 변경
 ## cat 명령어 (파일 내용 출력)
 ![cat 출력](https://github.com/Jun-1108/Linux-/assets/48702150/4acb9794-663e-4ae7-88cb-1f808c75954a)<br>
 ## clear 명령어
-![clear 출력1](https://github.com/Jun-1108/Linux-/assets/48702150/a0c7c69f-2a92-4bc0-b935-aa88b3edb381)
+![clear 출력1](https://github.com/Jun-1108/Linux-/assets/48702150/a0c7c69f-2a92-4bc0-b935-aa88b3edb381)<br>
 clear_tmpp 실행 전<br>
 ![clear 출력 2](https://github.com/Jun-1108/Linux-/assets/48702150/200024b5-948b-4560-a9dc-5ff11fc7b849)
 clear_tmpp 실행 후<br>
+## unlink 명령어(링크 삭제or 파일삭제)
+![unlink 출력1](https://github.com/Jun-1108/Linux-/assets/48702150/8a67aae5-ea4d-4044-a357-5a84fef675a7)
+명령어를 실행하면 밑에 화면에서 test1.txt 파일이 삭제된 것을 확인할 수 있다.
+![unlink 출력2](https://github.com/Jun-1108/Linux-/assets/48702150/9e9b9167-49a6-4ab7-acc3-e8d1beb18bf8)
 
 
 
