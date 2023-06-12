@@ -6,6 +6,8 @@
 ## hostname 명령어(
 ![hostname 출력](https://github.com/Jun-1108/Linux-/assets/48702150/d9dcf0fe-f7cb-4e42-836c-5e5c2cff548f)<br>
 ## true, fasle 명령어(2개)
-
+![true,false](https://github.com/Jun-1108/Linux-/assets/48702150/e90218ce-db0a-4e65-8ef8-edb77cb40444)<br>
+직전 process의 코드를 return하는 것으로 리턴값이 0이면 성공, 1이면 실패이다.<br>
+## ls(현재 작업 디렉토리의 파일들을 출력)
 
 
