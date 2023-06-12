@@ -3,7 +3,7 @@
 ![echo](https://github.com/Jun-1108/Linux-/assets/48702150/cd88f540-cbb0-493e-91a1-af9916b68f27)<br>
 ## pwd 명령어(현재 디렉토리 위치 출력)
 ![pwd (현재 디렉토리 경로 출력)](https://github.com/Jun-1108/Linux-/assets/48702150/371eb7e6-62b4-46d3-83a9-3877d7181633)<br>
-## hostname 명령어(
+## hostname 명령어(호스트 이름을 출력)
 ![hostname 출력](https://github.com/Jun-1108/Linux-/assets/48702150/d9dcf0fe-f7cb-4e42-836c-5e5c2cff548f)<br>
 ## true, fasle 명령어(2개)
 ![true,false](https://github.com/Jun-1108/Linux-/assets/48702150/e90218ce-db0a-4e65-8ef8-edb77cb40444)<br>
@@ -24,7 +24,7 @@ source.txt 파일이 없어지고 destination.txt 파일로 이동(이름 변경
 ![touch 출력](https://github.com/Jun-1108/Linux-/assets/48702150/738d8946-9f80-4ee5-ad4a-3e1affbbb330)<br>
 ## yes 명령어 (인수 반복 출력)
 ![yes 출력](https://github.com/Jun-1108/Linux-/assets/48702150/552e9560-c553-443c-b611-f64dd0ae2640)<br>
-
+위에처럼 실행하면 apple이 반복적으로 출력된다.
 
 
 
