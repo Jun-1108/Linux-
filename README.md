@@ -11,6 +11,11 @@
 ## ls(현재 작업 디렉토리의 파일들을 출력)
 ![ls 출려](https://github.com/Jun-1108/Linux-/assets/48702150/46d060cb-daba-45c8-9bdb-4a338aa54354)<br>
 ## rm(파일or디렉토리 삭제)
+![rm 출력1](https://github.com/Jun-1108/Linux-/assets/48702150/91d0ccad-109e-4be7-911f-790113a00aaf)<br>
+rm_tmp destination.txt를 실행시켜 destination.txt 파일을 삭제시킨다.
+![rm 출력2](https://github.com/Jun-1108/Linux-/assets/48702150/974fd918-04d8-4d16-8f98-0e364a56b68c)<br>
+destination.txt 파일이 없어진것을 볼 수 있다.<br>
+## mv(파일or디렉토리 이동,이름을 변경)
 
 
 
