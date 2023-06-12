@@ -16,6 +16,11 @@ rm_tmp destination.txt를 실행시켜 destination.txt 파일을 삭제시킨다
 ![rm 출력2](https://github.com/Jun-1108/Linux-/assets/48702150/974fd918-04d8-4d16-8f98-0e364a56b68c)<br>
 destination.txt 파일이 없어진것을 볼 수 있다.<br>
 ## mv(파일or디렉토리 이동,이름을 변경)
+![mv 출력](https://github.com/Jun-1108/Linux-/assets/48702150/b5f9f49e-e1e6-4805-9c02-f505334cd8a8)<br>
+mv_tmp source.txt destination.txt를 실행시킨다.<br>
+![mv 출력 2](https://github.com/Jun-1108/Linux-/assets/48702150/08813281-ece9-4057-83be-40a33982baaa)
+source.txt 파일이 없어지고 destination.txt 파일로 이동(이름 변경) 한 것을 알 수 있다.<br>
+## 
 
 
 
